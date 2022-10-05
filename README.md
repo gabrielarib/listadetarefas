@@ -11,5 +11,5 @@ As tarefas são adicionadas e, quando marcadas, vão para o fim da lista. També
 <div align="center">
 Por meio do link abaixo, você pode acessar a página postada:
 
-<a href="https://gabrielarib.github.io/listadetarefas/">Link</a>
+<a target="_blank" href="https://gabrielarib.github.io/listadetarefas/">Link</a>
  </div>
